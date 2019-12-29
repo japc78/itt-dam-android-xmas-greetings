@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">¡Santa Cool!</string>
+    <string name="tit">!Feliz Navidad!</string>
+    <string name="author">Juan Antonio Pavón Carmona\n ITT DAM</string>
+    <string name="contentDescriptionSplash">Splash de la App</string>
+    <string name="contentDescriptionBody">Papa Noel Body</string>
+    <string name="contentDescriptionGift01">Purple Gift</string>
+    <string name="contentDescriptionGift02">Green Gift</string>
+    <string name="contentDescriptionGift03">Pink Gift</string>
+    <string name="contentDescriptionFace">Papa Noel Face</string>
+</resources>
