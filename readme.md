@@ -6,6 +6,9 @@ Las animaciones de las imágenes en SVG han sido realizadas con [shapeshifter.de
 
 Aplicación desarrollada con **Android Studio.**
 
+![](https://drive.google.com/uc?export=view&id=1zWGhjfL7Fank9s9q58AAXKF495tu1XpZ)
+
+
 ## Recursos
 - [GitHub, JetradarMobile/android-snowfall - Efecto Nieve](https://github.com/JetradarMobile/android-snowfall)
 - [FreePik - Papa Noel](https://www.freepik.es/vector-gratis/plana-pancartas-navidad-santa-claus-muneco-nieve_5793944.htm)
